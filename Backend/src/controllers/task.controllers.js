@@ -1,7 +1,7 @@
 import { User } from "../models/user.model.js";
 import { Project } from "../models/project.models.js";
 import { Task } from "../models/Task.model.js";
-import { SubTask } from "../models/subtask.model.js";
+import { SubTask } from "../models/Subtask.model.js";
 import { ApiResponse } from "../utils/api-response.js";
 import { ApiError } from "../utils/api-error.js";
 import { asyncHandler } from "../utils/async-handler.js";
