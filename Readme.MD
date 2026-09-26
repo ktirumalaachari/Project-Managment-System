@@ -26,10 +26,6 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=06B6D4" alt="PRs Welcome" />
 <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=3B82F6" alt="License" />
 <img src="https://img.shields.io/badge/Platform-Mobile%20%7C%20Web%20%7C%20API-orange?style=for-the-badge&logo=flutter&logoColor=white&color=F59E0B" alt="Platforms" />
-    <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=statuspage&logoColor=white&color=10B981" alt="Status" />
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=06B6D4" alt="PRs Welcome" />
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=3B82F6" alt="License" />
-    <img src="https://img.shields.io/badge/Platform-Mobile%20%7C%20Web%20%7C%20API-orange?style=for-the-badge&logo=flutter&logoColor=white&color=F59E0B" alt="Platforms" />
   </p>
 
 </div>
