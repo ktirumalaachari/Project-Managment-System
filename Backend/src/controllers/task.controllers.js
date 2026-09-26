@@ -1,6 +1,6 @@
 import { User } from "../models/user.model.js";
 import { Project } from "../models/project.models.js";
-import { Task } from "../models/task.model.js";
+import { Task } from "../models/Task.model.js";
 import { SubTask } from "../models/subtask.model.js";
 import { ApiResponse } from "../utils/api-response.js";
 import { ApiError } from "../utils/api-error.js";
